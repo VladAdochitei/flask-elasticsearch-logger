@@ -9,6 +9,7 @@ Flask Logger with ElasticSearch functionality.
 - [2. Simulation context](#2-simulation-context)
 - [3. ElasticSearch context](#3-elasticsearch-context)
 - [4. How to use the application](#4-how-to-use-the-application)
+- [5. How to integrate ElasticSearch with the logs](#5-how-to-integrate-elasticsearch-with-the-logs)
 ---------------------------------------------------
 
 <br>
@@ -53,3 +54,7 @@ python3 app.py
 # This should return the logs
 cat ./logs/app.log
 ```
+
+## 5. How to integrate ElasticSearch with the logs
+
+TBD...
