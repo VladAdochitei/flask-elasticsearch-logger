@@ -1,0 +1,1090 @@
+2023-11-07 14:07:57,503 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:08:00,508 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:08:01,783 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:08:05,793 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:09:27,477 [INFO] - POST request on operation page - IP:127.0.0.1
+2023-11-07 14:12:47,602 [INFO] - POST request on operation page - IP:127.0.0.1
+2023-11-07 14:14:17,657 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:14:17,658 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:14:49,310 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:14:49,310 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:15:11,932 [ERROR] - Unauthorized PUT on the operation page - IP:127.0.0.1
+2023-11-07 14:18:36,860 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:36,873 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:18:36,874 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:36,887 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:18:36,904 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:36,922 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:18:36,922 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:36,934 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:18:36,935 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:36,953 [ERROR] - Unauthorized PUT on the operation page - IP:127.0.0.1
+2023-11-07 14:18:36,969 [INFO] - POST request on operation page - IP:127.0.0.1
+2023-11-07 14:18:36,985 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:18:36,986 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:37,001 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:37,018 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:18:37,033 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:18:37,035 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:37,052 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:18:37,053 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:37,073 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:37,091 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:18:37,105 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:37,122 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:37,139 [INFO] - POST request on operation page - IP:127.0.0.1
+2023-11-07 14:18:37,154 [ERROR] - Unauthorized PUT on the operation page - IP:127.0.0.1
+2023-11-07 14:18:37,169 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:18:37,183 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:37,196 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:18:37,210 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:37,225 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:37,244 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:37,285 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:18:37,297 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:37,311 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:18:37,312 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:37,324 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:18:37,337 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:37,360 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:18:37,362 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:37,377 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:18:37,377 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:37,392 [ERROR] - Unauthorized PUT on the operation page - IP:127.0.0.1
+2023-11-07 14:18:37,411 [INFO] - POST request on operation page - IP:127.0.0.1
+2023-11-07 14:18:37,426 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:18:37,426 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:37,441 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:37,458 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:18:37,477 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:18:37,477 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:37,493 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:18:37,493 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:37,506 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:37,519 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:18:37,535 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:37,549 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:37,565 [INFO] - POST request on operation page - IP:127.0.0.1
+2023-11-07 14:18:37,580 [ERROR] - Unauthorized PUT on the operation page - IP:127.0.0.1
+2023-11-07 14:18:37,598 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:18:37,616 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:37,692 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:18:37,724 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:37,763 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:37,775 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:37,785 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:18:37,798 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:37,812 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:18:37,812 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:37,836 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:18:37,862 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:37,881 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:18:37,881 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:37,897 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:18:37,898 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:37,914 [ERROR] - Unauthorized PUT on the operation page - IP:127.0.0.1
+2023-11-07 14:18:37,930 [INFO] - POST request on operation page - IP:127.0.0.1
+2023-11-07 14:18:37,952 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:18:37,953 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:37,971 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:37,989 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:18:38,001 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:18:38,002 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:38,022 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:18:38,024 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:38,038 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:38,055 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:18:38,071 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:38,088 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:38,105 [INFO] - POST request on operation page - IP:127.0.0.1
+2023-11-07 14:18:38,121 [ERROR] - Unauthorized PUT on the operation page - IP:127.0.0.1
+2023-11-07 14:18:38,138 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:18:38,158 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:38,176 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:18:38,190 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:38,205 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:38,221 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:38,237 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:18:38,252 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:38,272 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:18:38,274 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:38,292 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:18:38,304 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:38,320 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:18:38,320 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:38,337 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:18:38,337 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:38,354 [ERROR] - Unauthorized PUT on the operation page - IP:127.0.0.1
+2023-11-07 14:18:38,371 [INFO] - POST request on operation page - IP:127.0.0.1
+2023-11-07 14:18:38,388 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:18:38,390 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:38,408 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:38,422 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:18:38,442 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:18:38,443 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:38,461 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:18:38,461 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:38,479 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:38,498 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:18:38,525 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:38,543 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:38,565 [INFO] - POST request on operation page - IP:127.0.0.1
+2023-11-07 14:18:38,588 [ERROR] - Unauthorized PUT on the operation page - IP:127.0.0.1
+2023-11-07 14:18:38,606 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:18:38,630 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:38,649 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:18:38,675 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:38,694 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:38,709 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:38,725 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:18:38,742 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:38,758 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:18:38,758 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:38,775 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:18:38,793 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:38,812 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:18:38,812 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:38,828 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:18:38,828 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:38,844 [ERROR] - Unauthorized PUT on the operation page - IP:127.0.0.1
+2023-11-07 14:18:38,861 [INFO] - POST request on operation page - IP:127.0.0.1
+2023-11-07 14:18:38,878 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:18:38,878 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:38,895 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:38,912 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:18:38,926 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:18:38,926 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:38,942 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:18:38,943 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:38,960 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:38,980 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:18:38,998 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:39,014 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:39,031 [INFO] - POST request on operation page - IP:127.0.0.1
+2023-11-07 14:18:39,047 [ERROR] - Unauthorized PUT on the operation page - IP:127.0.0.1
+2023-11-07 14:18:39,077 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:18:39,107 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:39,137 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:18:39,211 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:39,229 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:39,242 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:39,257 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:18:39,269 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:39,281 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:18:39,281 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:39,296 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:18:39,309 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:39,324 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:18:39,324 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:39,339 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:18:39,340 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:39,356 [ERROR] - Unauthorized PUT on the operation page - IP:127.0.0.1
+2023-11-07 14:18:39,373 [INFO] - POST request on operation page - IP:127.0.0.1
+2023-11-07 14:18:39,387 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:18:39,388 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:39,403 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:39,419 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:18:39,432 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:18:39,433 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:39,448 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:18:39,448 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:39,465 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:39,483 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:18:39,502 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:39,518 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:39,534 [INFO] - POST request on operation page - IP:127.0.0.1
+2023-11-07 14:18:39,546 [ERROR] - Unauthorized PUT on the operation page - IP:127.0.0.1
+2023-11-07 14:18:39,560 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:18:39,575 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:39,589 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:18:39,607 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:39,624 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:39,638 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:39,653 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:18:39,671 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:39,697 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:18:39,698 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:39,717 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:18:39,728 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:39,742 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:18:39,743 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:39,762 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:18:39,763 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:39,783 [ERROR] - Unauthorized PUT on the operation page - IP:127.0.0.1
+2023-11-07 14:18:39,797 [INFO] - POST request on operation page - IP:127.0.0.1
+2023-11-07 14:18:39,817 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:18:39,818 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:39,836 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:39,854 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:18:39,872 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:18:39,873 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:39,891 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:18:39,892 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:39,909 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:39,922 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:18:39,936 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:39,950 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:39,967 [INFO] - POST request on operation page - IP:127.0.0.1
+2023-11-07 14:18:39,984 [ERROR] - Unauthorized PUT on the operation page - IP:127.0.0.1
+2023-11-07 14:18:40,005 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:18:40,018 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:40,036 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:18:40,047 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:40,063 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:40,077 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:40,095 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:18:40,112 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:40,128 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:18:40,128 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:40,145 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:18:40,164 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:40,180 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:18:40,180 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:40,197 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:18:40,197 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:40,213 [ERROR] - Unauthorized PUT on the operation page - IP:127.0.0.1
+2023-11-07 14:18:40,229 [INFO] - POST request on operation page - IP:127.0.0.1
+2023-11-07 14:18:40,245 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:18:40,245 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:40,262 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:40,278 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:18:40,296 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:18:40,296 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:40,320 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:18:40,321 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:40,337 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:40,354 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:18:40,373 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:40,394 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:40,424 [INFO] - POST request on operation page - IP:127.0.0.1
+2023-11-07 14:18:40,485 [ERROR] - Unauthorized PUT on the operation page - IP:127.0.0.1
+2023-11-07 14:18:40,503 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:18:40,527 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:40,542 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:18:40,558 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:40,575 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:40,597 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:18:40,644 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:45,909 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:45,923 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:45,924 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:45,938 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:45,956 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:45,975 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:45,976 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:45,993 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:28:45,993 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:46,010 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:46,033 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:46,035 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:46,051 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:28:46,053 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:46,074 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:46,128 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:46,188 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:46,248 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:46,260 [INFO] - POST request on operation page - IP:127.0.0.1
+2023-11-07 14:28:46,279 [ERROR] - Unauthorized PUT on the operation page - IP:127.0.0.1
+2023-11-07 14:28:46,312 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:46,326 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:46,352 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:46,378 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:46,401 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:46,421 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:46,440 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:46,453 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:46,472 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:46,472 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:46,488 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:46,511 [ERROR] - Unauthorized PUT on the operation page - IP:127.0.0.1
+2023-11-07 14:28:46,536 [INFO] - POST request on operation page - IP:127.0.0.1
+2023-11-07 14:28:46,557 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:28:46,557 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:46,575 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:46,592 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:46,609 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:46,610 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:46,630 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:28:46,632 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:46,649 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:46,668 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:46,687 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:46,705 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:46,724 [INFO] - POST request on operation page - IP:127.0.0.1
+2023-11-07 14:28:46,740 [ERROR] - Unauthorized PUT on the operation page - IP:127.0.0.1
+2023-11-07 14:28:46,759 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:46,776 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:46,797 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:46,816 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:46,837 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:46,855 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:46,868 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:46,886 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:46,904 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:46,904 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:46,932 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:46,953 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:46,966 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:46,967 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:46,985 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:28:46,987 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:47,005 [ERROR] - Unauthorized PUT on the operation page - IP:127.0.0.1
+2023-11-07 14:28:47,020 [INFO] - POST request on operation page - IP:127.0.0.1
+2023-11-07 14:28:47,049 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:28:47,049 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:47,075 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:47,094 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:47,117 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:47,119 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:47,140 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:28:47,140 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:47,158 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:47,175 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:47,192 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:47,210 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:47,233 [INFO] - POST request on operation page - IP:127.0.0.1
+2023-11-07 14:28:47,252 [ERROR] - Unauthorized PUT on the operation page - IP:127.0.0.1
+2023-11-07 14:28:47,270 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:47,290 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:47,309 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:47,326 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:47,344 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:47,365 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:47,383 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:47,401 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:47,423 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:47,424 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:47,445 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:47,463 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:47,487 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:47,489 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:47,507 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:47,524 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:47,526 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:47,547 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:28:47,548 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:47,566 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:47,582 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:47,608 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:47,643 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:47,660 [INFO] - POST request on operation page - IP:127.0.0.1
+2023-11-07 14:28:47,681 [ERROR] - Unauthorized PUT on the operation page - IP:127.0.0.1
+2023-11-07 14:28:47,700 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:47,716 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:47,735 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:47,751 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:47,769 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:47,787 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:47,807 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:47,825 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:47,841 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:47,842 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:47,861 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:47,883 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:28:47,885 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:47,920 [ERROR] - Unauthorized PUT on the operation page - IP:127.0.0.1
+2023-11-07 14:28:47,952 [INFO] - POST request on operation page - IP:127.0.0.1
+2023-11-07 14:28:47,968 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:28:47,970 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:48,053 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:48,073 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:48,087 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:48,088 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:48,107 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:28:48,107 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:48,133 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:48,149 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:48,165 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:48,182 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:48,199 [INFO] - POST request on operation page - IP:127.0.0.1
+2023-11-07 14:28:48,216 [ERROR] - Unauthorized PUT on the operation page - IP:127.0.0.1
+2023-11-07 14:28:48,235 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:48,249 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:48,270 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:48,293 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:48,318 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:48,339 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:48,359 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:48,376 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:48,395 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:48,396 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:48,416 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:48,437 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:48,454 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:48,455 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:48,472 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:28:48,472 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:48,489 [ERROR] - Unauthorized PUT on the operation page - IP:127.0.0.1
+2023-11-07 14:28:48,506 [INFO] - POST request on operation page - IP:127.0.0.1
+2023-11-07 14:28:48,524 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:28:48,525 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:48,548 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:48,567 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:48,585 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:48,585 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:48,603 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:28:48,604 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:48,625 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:48,643 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:48,675 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:48,703 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:48,721 [INFO] - POST request on operation page - IP:127.0.0.1
+2023-11-07 14:28:48,741 [ERROR] - Unauthorized PUT on the operation page - IP:127.0.0.1
+2023-11-07 14:28:48,765 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:48,790 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:48,812 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:48,836 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:48,856 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:48,878 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:48,906 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:48,926 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:48,951 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:48,952 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:48,974 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:48,990 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:49,008 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:49,008 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:49,025 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:28:49,025 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:49,043 [ERROR] - Unauthorized PUT on the operation page - IP:127.0.0.1
+2023-11-07 14:28:49,059 [INFO] - POST request on operation page - IP:127.0.0.1
+2023-11-07 14:28:49,081 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:28:49,082 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:49,112 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:49,140 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:49,163 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:49,164 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:49,184 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:28:49,185 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:49,202 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:49,218 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:49,238 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:49,253 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:49,268 [INFO] - POST request on operation page - IP:127.0.0.1
+2023-11-07 14:28:49,291 [ERROR] - Unauthorized PUT on the operation page - IP:127.0.0.1
+2023-11-07 14:28:49,314 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:49,336 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:49,357 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:49,375 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:49,393 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:49,418 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:49,436 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:49,456 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:49,469 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:49,470 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:49,483 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:49,500 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:49,524 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:49,524 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:49,539 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:28:49,540 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:49,558 [ERROR] - Unauthorized PUT on the operation page - IP:127.0.0.1
+2023-11-07 14:28:49,583 [INFO] - POST request on operation page - IP:127.0.0.1
+2023-11-07 14:28:49,603 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:28:49,605 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:49,625 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:49,651 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:49,673 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:49,674 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:49,696 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:28:49,697 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:49,721 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:49,748 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:49,769 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:49,796 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:49,824 [INFO] - POST request on operation page - IP:127.0.0.1
+2023-11-07 14:28:49,857 [ERROR] - Unauthorized PUT on the operation page - IP:127.0.0.1
+2023-11-07 14:28:49,875 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:49,898 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:49,912 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:49,925 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:49,940 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:49,954 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:49,977 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:50,077 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:50,138 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:50,138 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:50,151 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:50,171 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:50,188 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:50,188 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:50,207 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:28:50,208 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:50,227 [ERROR] - Unauthorized PUT on the operation page - IP:127.0.0.1
+2023-11-07 14:28:50,244 [INFO] - POST request on operation page - IP:127.0.0.1
+2023-11-07 14:28:50,261 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:28:50,262 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:50,280 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:50,298 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:50,317 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:50,318 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:50,337 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:28:50,338 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:50,353 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:50,370 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:50,381 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:50,397 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:50,412 [INFO] - POST request on operation page - IP:127.0.0.1
+2023-11-07 14:28:50,430 [ERROR] - Unauthorized PUT on the operation page - IP:127.0.0.1
+2023-11-07 14:28:50,440 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:50,456 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:50,470 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:50,490 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:50,505 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:50,523 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:50,546 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:50,570 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:50,597 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:50,599 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:50,621 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:50,641 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:50,664 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:50,665 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:50,686 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:28:50,687 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:50,703 [ERROR] - Unauthorized PUT on the operation page - IP:127.0.0.1
+2023-11-07 14:28:50,721 [INFO] - POST request on operation page - IP:127.0.0.1
+2023-11-07 14:28:50,739 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:28:50,740 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:50,760 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:50,780 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:50,801 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:50,801 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:50,818 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:28:50,819 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:50,832 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:50,850 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:50,869 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:50,884 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:50,905 [INFO] - POST request on operation page - IP:127.0.0.1
+2023-11-07 14:28:50,924 [ERROR] - Unauthorized PUT on the operation page - IP:127.0.0.1
+2023-11-07 14:28:50,952 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:50,972 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:50,989 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:51,005 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:51,021 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:51,041 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:51,068 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:51,069 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:51,091 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:28:51,091 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:51,109 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:51,136 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:51,155 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:51,172 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:51,191 [INFO] - POST request on operation page - IP:127.0.0.1
+2023-11-07 14:28:51,213 [ERROR] - Unauthorized PUT on the operation page - IP:127.0.0.1
+2023-11-07 14:28:51,235 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:51,265 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:51,281 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:51,308 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:51,312 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:51,338 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:28:51,340 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:51,373 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:51,399 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:51,400 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:51,423 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:28:51,424 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:51,462 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:51,489 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:51,521 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:51,565 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:51,582 [INFO] - POST request on operation page - IP:127.0.0.1
+2023-11-07 14:28:51,617 [ERROR] - Unauthorized PUT on the operation page - IP:127.0.0.1
+2023-11-07 14:28:51,639 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:51,653 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:51,666 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:51,679 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:51,707 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:51,764 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:51,838 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:51,874 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:51,890 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:51,890 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:51,905 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:51,922 [ERROR] - Unauthorized PUT on the operation page - IP:127.0.0.1
+2023-11-07 14:28:51,947 [INFO] - POST request on operation page - IP:127.0.0.1
+2023-11-07 14:28:51,970 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:28:51,970 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:51,989 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:52,005 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:52,022 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:52,022 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:52,040 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:28:52,041 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:52,058 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:52,076 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:52,091 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:52,112 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:52,129 [INFO] - POST request on operation page - IP:127.0.0.1
+2023-11-07 14:28:52,146 [ERROR] - Unauthorized PUT on the operation page - IP:127.0.0.1
+2023-11-07 14:28:52,166 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:52,179 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:52,196 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:52,213 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:52,229 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:52,245 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:52,262 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:52,279 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:52,296 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:52,298 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:52,314 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:52,329 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:52,345 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:52,345 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:52,362 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:28:52,363 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:52,379 [ERROR] - Unauthorized PUT on the operation page - IP:127.0.0.1
+2023-11-07 14:28:52,396 [INFO] - POST request on operation page - IP:127.0.0.1
+2023-11-07 14:28:52,416 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:28:52,417 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:52,432 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:52,448 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:52,464 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:52,466 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:52,479 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:28:52,482 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:52,496 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:52,512 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:52,529 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:52,546 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:52,561 [INFO] - POST request on operation page - IP:127.0.0.1
+2023-11-07 14:28:52,577 [ERROR] - Unauthorized PUT on the operation page - IP:127.0.0.1
+2023-11-07 14:28:52,595 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:52,616 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:52,632 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:52,654 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:52,674 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:52,693 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:52,712 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:52,729 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:52,745 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:52,746 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:52,763 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:52,783 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:52,800 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:52,801 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:52,818 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:52,836 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:52,836 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:52,855 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:28:52,856 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:52,870 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:52,892 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:52,915 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:52,937 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:52,953 [INFO] - POST request on operation page - IP:127.0.0.1
+2023-11-07 14:28:52,970 [ERROR] - Unauthorized PUT on the operation page - IP:127.0.0.1
+2023-11-07 14:28:52,987 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:53,004 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:53,021 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:53,034 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:53,045 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:53,066 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:53,085 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:53,102 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:53,120 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:53,120 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:53,136 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:53,153 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:28:53,154 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:53,170 [ERROR] - Unauthorized PUT on the operation page - IP:127.0.0.1
+2023-11-07 14:28:53,188 [INFO] - POST request on operation page - IP:127.0.0.1
+2023-11-07 14:28:53,201 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:28:53,201 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:53,216 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:53,234 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:53,254 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:53,254 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:53,283 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:28:53,284 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:53,311 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:53,336 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:53,366 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:53,388 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:53,449 [INFO] - POST request on operation page - IP:127.0.0.1
+2023-11-07 14:28:53,469 [ERROR] - Unauthorized PUT on the operation page - IP:127.0.0.1
+2023-11-07 14:28:53,513 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:53,541 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:53,571 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:53,594 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:53,620 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:53,639 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:53,660 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:53,683 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:53,702 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:53,703 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:53,719 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:53,739 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:53,756 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:53,757 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:53,782 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:28:53,783 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:53,804 [ERROR] - Unauthorized PUT on the operation page - IP:127.0.0.1
+2023-11-07 14:28:53,832 [INFO] - POST request on operation page - IP:127.0.0.1
+2023-11-07 14:28:53,856 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:28:53,856 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:53,880 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:53,900 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:53,914 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:53,915 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:53,936 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:28:53,937 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:53,955 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:53,986 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:54,006 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:54,035 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:54,070 [INFO] - POST request on operation page - IP:127.0.0.1
+2023-11-07 14:28:54,089 [ERROR] - Unauthorized PUT on the operation page - IP:127.0.0.1
+2023-11-07 14:28:54,111 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:54,130 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:54,153 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:54,170 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:54,188 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:54,206 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:54,228 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:54,240 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:54,261 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:54,263 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:54,278 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:54,294 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:54,310 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:54,311 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:54,327 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:28:54,328 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:54,344 [ERROR] - Unauthorized PUT on the operation page - IP:127.0.0.1
+2023-11-07 14:28:54,360 [INFO] - POST request on operation page - IP:127.0.0.1
+2023-11-07 14:28:54,375 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:28:54,377 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:54,390 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:54,409 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:54,431 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:54,431 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:54,444 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:28:54,444 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:54,461 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:54,477 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:54,494 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:54,511 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:54,532 [INFO] - POST request on operation page - IP:127.0.0.1
+2023-11-07 14:28:54,553 [ERROR] - Unauthorized PUT on the operation page - IP:127.0.0.1
+2023-11-07 14:28:54,571 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:54,588 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:54,604 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:54,618 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:54,633 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:54,652 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:54,669 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:54,688 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:54,704 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:54,705 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:54,721 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:54,738 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:54,754 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:54,754 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:54,771 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:28:54,772 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:54,789 [ERROR] - Unauthorized PUT on the operation page - IP:127.0.0.1
+2023-11-07 14:28:54,806 [INFO] - POST request on operation page - IP:127.0.0.1
+2023-11-07 14:28:54,823 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:28:54,826 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:54,843 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:54,862 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:54,879 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:54,881 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:54,895 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:28:54,896 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:54,911 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:54,949 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:55,055 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:55,086 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:55,117 [INFO] - POST request on operation page - IP:127.0.0.1
+2023-11-07 14:28:55,136 [ERROR] - Unauthorized PUT on the operation page - IP:127.0.0.1
+2023-11-07 14:28:55,153 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:55,170 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:55,205 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:55,234 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:55,252 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:55,271 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:55,297 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:55,316 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:55,334 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:55,334 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:55,350 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:55,367 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:55,383 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:55,383 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:55,402 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:28:55,402 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:55,418 [ERROR] - Unauthorized PUT on the operation page - IP:127.0.0.1
+2023-11-07 14:28:55,436 [INFO] - POST request on operation page - IP:127.0.0.1
+2023-11-07 14:28:55,451 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:28:55,451 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:55,466 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:55,482 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:55,494 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:55,494 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:55,510 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:55,528 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:55,553 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:55,657 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:55,691 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:55,710 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:55,722 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:55,738 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:55,739 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:55,754 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:55,771 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:55,792 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:55,809 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:55,828 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:55,843 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:55,845 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:55,860 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:28:55,860 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:55,877 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:55,895 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:55,896 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:55,910 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:28:55,910 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:55,924 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:55,939 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:55,959 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:55,976 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:55,992 [INFO] - POST request on operation page - IP:127.0.0.1
+2023-11-07 14:28:56,009 [ERROR] - Unauthorized PUT on the operation page - IP:127.0.0.1
+2023-11-07 14:28:56,024 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:56,040 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:56,056 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:56,076 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:56,092 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:56,107 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:56,122 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:56,138 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:56,154 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:56,155 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:56,170 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:56,187 [ERROR] - Unauthorized PUT on the operation page - IP:127.0.0.1
+2023-11-07 14:28:56,205 [INFO] - POST request on operation page - IP:127.0.0.1
+2023-11-07 14:28:56,227 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:28:56,229 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:56,245 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:56,260 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:56,278 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:56,279 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:56,293 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:28:56,294 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:56,312 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:56,329 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:56,347 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:56,363 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:56,378 [INFO] - POST request on operation page - IP:127.0.0.1
+2023-11-07 14:28:56,397 [ERROR] - Unauthorized PUT on the operation page - IP:127.0.0.1
+2023-11-07 14:28:56,416 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:56,431 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:56,449 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:56,467 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:56,484 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:56,502 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:56,521 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:56,543 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:56,560 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:56,560 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:56,576 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:56,615 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:56,664 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:56,664 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:56,726 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:28:56,727 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:56,751 [ERROR] - Unauthorized PUT on the operation page - IP:127.0.0.1
+2023-11-07 14:28:56,766 [INFO] - POST request on operation page - IP:127.0.0.1
+2023-11-07 14:28:56,783 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:28:56,783 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:56,797 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:56,813 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:56,827 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:56,828 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:56,842 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:28:56,843 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:56,862 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:56,870 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:56,879 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:56,897 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:56,913 [INFO] - POST request on operation page - IP:127.0.0.1
+2023-11-07 14:28:56,930 [ERROR] - Unauthorized PUT on the operation page - IP:127.0.0.1
+2023-11-07 14:28:56,948 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:56,970 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:56,988 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:57,005 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:57,021 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:57,038 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:57,047 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:57,059 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:57,071 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:57,072 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:57,090 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:57,103 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:57,124 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:57,125 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:57,139 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:57,161 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:57,162 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:57,178 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:28:57,179 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:57,200 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:57,219 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:57,239 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:57,257 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:57,272 [INFO] - POST request on operation page - IP:127.0.0.1
+2023-11-07 14:28:57,297 [ERROR] - Unauthorized PUT on the operation page - IP:127.0.0.1
+2023-11-07 14:28:57,326 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:57,351 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:57,375 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:57,399 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:57,424 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:57,495 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:57,510 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:57,531 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:57,558 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:57,575 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:57,630 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:57,659 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:28:57,663 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:57,702 [ERROR] - Unauthorized PUT on the operation page - IP:127.0.0.1
+2023-11-07 14:28:57,737 [INFO] - POST request on operation page - IP:127.0.0.1
+2023-11-07 14:28:57,775 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:28:57,778 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:57,802 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:57,833 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:57,853 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:57,854 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:57,876 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:28:57,876 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:57,898 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:57,918 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:57,935 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:57,958 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:57,983 [INFO] - POST request on operation page - IP:127.0.0.1
+2023-11-07 14:28:58,003 [ERROR] - Unauthorized PUT on the operation page - IP:127.0.0.1
+2023-11-07 14:28:58,030 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:58,047 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:58,065 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:58,081 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:58,101 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:58,119 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:58,141 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:58,165 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:58,186 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:58,186 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:58,208 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:58,232 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:58,264 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:58,266 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:58,296 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:28:58,297 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:58,318 [ERROR] - Unauthorized PUT on the operation page - IP:127.0.0.1
+2023-11-07 14:28:58,341 [INFO] - POST request on operation page - IP:127.0.0.1
+2023-11-07 14:28:58,361 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:28:58,362 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:58,385 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:58,408 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:58,426 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:58,428 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:58,451 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:28:58,451 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:58,468 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:58,487 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:58,516 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:58,535 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:58,552 [INFO] - POST request on operation page - IP:127.0.0.1
+2023-11-07 14:28:58,575 [ERROR] - Unauthorized PUT on the operation page - IP:127.0.0.1
+2023-11-07 14:28:58,600 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:58,619 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:58,644 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:58,666 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:58,685 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:58,724 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:58,778 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:58,827 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:58,841 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:58,842 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:58,888 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:58,925 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:58,948 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:58,949 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:58,967 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:28:58,969 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:58,998 [ERROR] - Unauthorized PUT on the operation page - IP:127.0.0.1
+2023-11-07 14:28:59,029 [INFO] - POST request on operation page - IP:127.0.0.1
+2023-11-07 14:28:59,078 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:28:59,082 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:59,117 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:59,151 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:59,202 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:59,207 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:59,259 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:28:59,264 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:59,302 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:59,340 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:59,356 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:59,378 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:59,394 [INFO] - POST request on operation page - IP:127.0.0.1
+2023-11-07 14:28:59,415 [ERROR] - Unauthorized PUT on the operation page - IP:127.0.0.1
+2023-11-07 14:28:59,437 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:59,455 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:59,482 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:59,513 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:59,534 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:59,558 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:59,590 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:59,618 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:59,645 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:59,646 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:59,679 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:59,707 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:59,735 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:59,736 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:59,760 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:28:59,760 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:59,782 [ERROR] - Unauthorized PUT on the operation page - IP:127.0.0.1
+2023-11-07 14:28:59,807 [INFO] - POST request on operation page - IP:127.0.0.1
+2023-11-07 14:28:59,833 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:28:59,834 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:59,868 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:59,890 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:59,915 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:28:59,915 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:59,933 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:28:59,933 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:59,948 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:28:59,975 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:28:59,993 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:29:00,005 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:29:00,019 [INFO] - POST request on operation page - IP:127.0.0.1
+2023-11-07 14:29:00,048 [ERROR] - Unauthorized PUT on the operation page - IP:127.0.0.1
+2023-11-07 14:29:00,072 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:29:00,097 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:29:00,132 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:29:00,157 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:29:00,194 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:29:00,229 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:29:00,248 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:29:00,262 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:29:00,282 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:29:00,282 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:29:00,300 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:29:00,335 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:29:00,362 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:29:00,364 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:29:00,383 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:29:00,384 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:29:00,415 [ERROR] - Unauthorized PUT on the operation page - IP:127.0.0.1
+2023-11-07 14:29:00,448 [INFO] - POST request on operation page - IP:127.0.0.1
+2023-11-07 14:29:00,466 [WARNING] - Unauthorized PUT at the index page - IP: 127.0.0.1
+2023-11-07 14:29:00,466 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:29:00,493 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:29:00,514 [INFO] - GET request on operation page - IP:127.0.0.1
+2023-11-07 14:29:00,530 [WARNING] - Unauthorized POST at the index page - IP: 127.0.0.1
+2023-11-07 14:29:00,531 [INFO] - Accessed the index page - IP:127.0.0.1
+2023-11-07 14:30:24,417 [INFO] - Accessed the index page - IP:127.0.0.1
