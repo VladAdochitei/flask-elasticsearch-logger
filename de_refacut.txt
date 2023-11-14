@@ -1,0 +1,9 @@
+Trebuie refacut:
+- trebuie sa fac structura api-ului in swagger, scopul pe care il indeplineste samd.
+- tech-stackul (ce folosesc pe backend, ce folosesc e frontend, ce folosescca baza dedate, structuri de date..etc.)
+- GET/api/tutorials?searchText=test, adaug un parametru de filtrare searchtext
+- serviciile, get, post, etc
+- structurile de date (la post, ce structura ar ecand postez untutorial spre exemplu, un book, etc.)
+
+
+De prezentat Designul, Scopul si tehnologiile.
