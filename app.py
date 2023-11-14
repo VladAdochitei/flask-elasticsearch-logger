@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 # Configure the logger
 log_formatter = logging.Formatter(
-    "%(asctime)s [%(levelname)s] - %(message)s"
+    "%(asctime)s - [%(levelname)s] - %(message)s"
 )
 log_handler = RotatingFileHandler(
     "logs/app.log",
@@ -23,24 +23,24 @@ def index():
     
     if request.method != 'GET':
         request_type=request.method
-        app.logger.warning(f"Unauthorized {request_type} at the index page - IP: {client_ip}")
+        app.logger.warning(f"Unauthorized - {request_type} request - at the index page - IP: {client_ip}")
 
-    app.logger.info(f"Accessed the index page - IP:{client_ip}")
+    app.logger.info(f"Authorized - GET request - on the index page - IP:{client_ip}")
     return "Hello, World!"
 
 @app.route('/operation', methods=['GET', 'POST', 'PUT'])
 def operation():
     if request.method == "GET":
         client_ip = request.remote_addr
-        app.logger.info(f"GET request on operation page - IP:{client_ip}")
+        app.logger.info(f" Authorized - GET request - on operation page - IP:{client_ip}")
         return "Other Page sucessful GET request"
     elif request.method == "POST":
         client_ip = request.remote_addr
-        app.logger.info(f"POST request on operation page - IP:{client_ip}")
+        app.logger.info(f"Authorized - POST request - on operation page - IP:{client_ip}")
         return "Other Page Successful POST request"
     else:
         client_ip = request.remote_addr
-        app.logger.error(f"Unauthorized {request.method} on the operation page - IP:{client_ip}")
+        app.logger.error(f"Unauthorized - {request.method} request - on the operation page - IP:{client_ip}")
         abort(403)
 
 if __name__ == '__main__':
