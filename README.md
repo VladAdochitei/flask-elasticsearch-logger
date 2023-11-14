@@ -249,3 +249,5 @@ Request successful!
 
 END.
 
+
+P.S. - I know it's best not to store passwords in clear text but in this project the passwor's presence doesn't affect anything, in an ideal scenario it would havebeen stored in an Environment Variable and grabbed with python's os library, `os.getenv('ELASTIC_PASSWORD')`...
