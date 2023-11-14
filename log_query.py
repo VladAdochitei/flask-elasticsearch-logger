@@ -1,7 +1,7 @@
 import subprocess
 import json
 
-# Replace with your actual Elasticsearch credentials
+# Elasticsearch password
 elastic_password = "2GpaWu*RYcvAq7TxuXvk"
 
 # Elasticsearch URL and endpoint for searching

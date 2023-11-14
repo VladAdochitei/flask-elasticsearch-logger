@@ -5,10 +5,13 @@ import json
 # Assuming each line of the log file is in the format: timestamp - [LEVEL] - Message - IP:...
 log_file = os.path.join(os.path.dirname(os.path.realpath(__file__)), 'logs/app.log')
 
+# ElasticSearch password
 elastic_password = "2GpaWu*RYcvAq7TxuXvk"
 
+# Open the log file and read the lines
 with open(log_file, 'r') as file:
     lines = file.readlines()
+    # Forgot to close it
 
 for line in lines:
     parts = line.split(' - ')
@@ -28,8 +31,6 @@ for line in lines:
         }
 
         # Using subprocess to execute curl command
-        # Replace with your Elasticsearch URL and credentials
-
         curl_command = [
             "curl",
             "--cacert",
@@ -41,14 +42,15 @@ for line in lines:
             "Content-Type: application/json",
             "https://localhost:9200/my_logs/_doc",
             "-d",
-            json.dumps(json_payload)  # Properly format the JSON payload
+            json.dumps(json_payload)  
         ]
 
+        # DEBUGGING-------------------------------------------
         # Print JSON payload for debugging purposes
         # print(json.dumps(json_payload)) 
-
         # Print JSON payload for debugging purposes
         # print("Executing command:", ' '.join(curl_command))
+        # ----------------------------------------------------
 
-        # Execute the curl command
+        # Execute the curl command (To send the data)
         subprocess.run(curl_command)
